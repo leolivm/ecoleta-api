@@ -50,7 +50,7 @@ module.exports = {
 };
 ```
 
-3. `cd corebiz`<br />
+3. `cd ecoleta-api`<br />
 4. `yarn install` ou `npm install` para instalar as dependências.<br />
 5. Após feita a configuração e instalação das dependências, execute os comandos de `migration`:
 
